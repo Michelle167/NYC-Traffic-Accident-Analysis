@@ -120,19 +120,48 @@ Crash Day and Time of Day are available as filters.
 
 ### Visualizations
 Screenshots of the Power BI dashboard are included in the /assets folder:
-- Accident Volume Summary → - Accident Volume Summary  
+
+- Accident Volume Summary →  
   <p align="center">
     <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Accident%20Volume%20Summary.png)" width="500"/>
   </p>
-- Geographic Distribution → ![Geographic Distribution](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Geographic%20Distribution.png?raw=true)
-- Temporal Trends → ![Temporal Trends](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Temporal%20Trends.png?raw=true)
-- Vehicle Involvement → ![Vehicle Involvement](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Vehicle%20Involvement.png?raw=true)
-- Street Hotspots → ![Street Hotspots](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Street%20Hotspots.png?raw=true)
-- Causes of Collision → ![Cause of Collision](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Causes%20Of%20Collision.png?raw=true)
-- Road Users Affected → ![Road Users](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Road%20Users%20Affected.png?raw=true)
+  
+- Geographic Distribution →
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Geographic%20Distribution.png)" width="500"/>
+  </p>
+  
+- Temporal Trends →
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Temporal%20Trends.png)" width="500"/>
+  </p>
+  
+- Vehicle Involvement →
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Vehicle%20Involvement.png)" width="500"/>
+  </p>
+  
+- Street Hotspots →
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Street%20Hotspots.png)" width="500"/>
+  </p>
+  
+- Causes of Collision →
+   <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Causes%20Of%20Collision.png)" width="500"/>
+  </p>
+  
+- Road Users Affected →
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Road%20Users%20Affected.png)" width="500"/>
+  </p>
+  
 Interactive dashboard available in:
-![NYC_Traffic_Accidents.pbix](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/NYC%20TRAFFIC%20ACCIDENT%20%20DASHBOARD.png?raw=true)
+<p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/NYC%20TRAFFIC%20ACCIDENT%20%20DASHBOARD.png" width="500"/>
+  </p>
 
+  
 ## Insights & Recommendations
 ### Key Insights
 - High accident counts concentrated in Brooklyn and Queens.
