@@ -120,7 +120,10 @@ Crash Day and Time of Day are available as filters.
 
 ### Visualizations
 Screenshots of the Power BI dashboard are included in the /assets folder:
-- Accident Volume Summary → ![Accident KPIs](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Accident%20Volume%20Summary.png?raw=true)
+- Accident Volume Summary → - Accident Volume Summary  
+  <p align="center">
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Accident%20Volume%20Summary.png)" width="500"/>
+  </p>
 - Geographic Distribution → ![Geographic Distribution](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Geographic%20Distribution.png?raw=true)
 - Temporal Trends → ![Temporal Trends](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Temporal%20Trends.png?raw=true)
 - Vehicle Involvement → ![Vehicle Involvement](https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Vehicle%20Involvement.png?raw=true)
