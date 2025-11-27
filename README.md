@@ -123,37 +123,37 @@ Screenshots of the Power BI dashboard are included in the /assets folder:
 
 - Accident Volume Summary →  
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Accident%20Volume%20Summary.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Accident%20Volume%20Summary.png" width="500"/>
   </p>
   
 - Geographic Distribution →
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Geographic%20Distribution.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Geographic%20Distribution.png" width="500"/>
   </p>
   
 - Temporal Trends →
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Temporal%20Trends.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Temporal%20Trends.png" width="500"/>
   </p>
   
 - Vehicle Involvement →
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Vehicle%20Involvement.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Vehicle%20Involvement.png" width="500"/>
   </p>
   
 - Street Hotspots →
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Street%20Hotspots.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Street%20Hotspots.png" width="500"/>
   </p>
   
 - Causes of Collision →
    <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Causes%20Of%20Collision.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Causes%20Of%20Collision.png" width="500"/>
   </p>
   
 - Road Users Affected →
   <p align="center">
-    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Road%20Users%20Affected.png)" width="500"/>
+    <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Road%20Users%20Affected.png" width="500"/>
   </p>
   
 Interactive dashboard available in:
