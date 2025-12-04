@@ -119,7 +119,7 @@ Crash Day and Time of Day are available as filters.
 
 
 ### Visualizations
-Screenshots of the Power BI dashboard are included in the /assets folder:
+Screenshots of the Power BI dashboard are included in the /Screenshots folder:
 
 - Accident Volume Summary →  
   <p align="center">
