@@ -156,7 +156,7 @@ Screenshots of the Power BI dashboard are included in the /Screenshots folder:
     <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/Road%20Users%20Affected.png" width="500"/>
   </p>
   
-Interactive dashboard available in:
+Full dashboard available in:
 <p align="center">
     <img src="https://github.com/Michelle167/NYC-Traffic-Accident-Analysis/blob/main/Screenshots/NYC%20TRAFFIC%20ACCIDENT%20%20DASHBOARD.png" width="500"/>
   </p>
